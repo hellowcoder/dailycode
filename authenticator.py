@@ -15,7 +15,7 @@ import os
 import threading
 import time
 
-# Globals, set right in the beginning
+
 username = None
 password = None
 args = None
